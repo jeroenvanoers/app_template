@@ -1,0 +1,22 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeroenvanoers/webapp_template.git"
+  },
+  "author": "Jeroen van Oers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeroenvanoers/app_template/issues"
+  },
+  "homepage": "https://github.com/jeroenvanoers/app_template#readme",
+  "devDependencies": {
+    "grunt": "^1.0.2"
+  }
+}
