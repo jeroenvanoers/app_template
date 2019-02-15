@@ -17,7 +17,16 @@
   },
   "homepage": "https://github.com/jeroenvanoers/app_template#readme",
   "devDependencies": {
-    "grunt": "^1.0.2",
-    "grunt-cli": "^1.3.2"
+    "grunt": "^1.0.3",
+    "grunt-cli": "^1.3.2",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "jshint": "^2.10.1"
+  },
+  "dependencies": {
+    "grunt-babel": "^8.0.0"
   }
 }
